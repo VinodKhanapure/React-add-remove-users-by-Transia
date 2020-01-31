@@ -9,7 +9,7 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0",
-    "homepage": "http://myname.github.io/myapp"
+    "homepage": "https://github.com/VinodKhanapure/React-add-remove-users-by-Transia.git"
   },
   "scripts": {
     "start": "react-scripts start",
